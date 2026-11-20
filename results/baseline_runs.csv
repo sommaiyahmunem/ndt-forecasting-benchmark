@@ -1,0 +1,5 @@
+run_id,dataset,colset,window,model,seed,hidden,lr,params,epochs,best_val,train_s
+5g|single|w12|last_value|s0,5g,single,12,last_value,0,0,0,0,0,,0.0
+4g|single|w12|last_value|s0,4g,single,12,last_value,0,0,0,0,0,,0.0
+operator|value+daily|w12|last_value|s0,operator,value+daily,12,last_value,0,0,0,0,0,,0.0
+operator|value+daily|w12|seasonal_naive|s0,operator,value+daily,12,seasonal_naive,0,0,0,0,0,,0.0

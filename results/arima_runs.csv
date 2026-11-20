@@ -1,0 +1,4 @@
+run_id,dataset,colset,window,model,seed,hidden,lr,params,epochs,best_val,train_s
+5g|single|w12|arima|s0,5g,single,12,arima,0,0,0,3,0,,114.9
+4g|single|w12|arima|s0,4g,single,12,arima,0,0,0,2,0,,45.6
+operator|value+daily|w12|arima|s0,operator,value+daily,12,arima,0,0,0,3,0,,277.9
